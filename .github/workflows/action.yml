@@ -1,8 +1,6 @@
-name: JavaScript CI
+name: Node.js
 
 on: [push]
-
-name: Node.js
 
 env:
   AZURE_WEBAPP_NAME: user30node   # set this to your application's name
